@@ -14,3 +14,6 @@
 - 2023.05.16
     - Part4.Ch02.05. 도메인 레이어 리팩토링 학습 완료
         - Todo, TodoRepository 전환
+- 2023.05.27
+    - Part4.Ch02.06. 테스트 코드 리팩토링 학습 완료
+        - TodoServiceTest 전환
